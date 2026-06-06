@@ -45,4 +45,4 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para 
 
 ## Atribuição
 
-Desenvolvido por MANOSHOX FF E Manaus.
+Desenvolvido por MANOSHOX FF.
