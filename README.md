@@ -1,48 +1,59 @@
 # ScreenFlow PRO
 
 <div align="center">
-  <img src="./assets/logo.png" alt="ScreenFlow PRO Logo" width="200"/>
+  <img src="./assets/logo.png" width="180"/>
+
+### Professional Open-Source Screen Recorder for Android
+
+Modern screen recording experience with Material You design, performance optimization and high-quality capture.
+
+![Status](https://img.shields.io/badge/status-beta-orange)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Platform](https://img.shields.io/badge/platform-Android-green)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success)
+
 </div>
 
-Um gravador de tela profissional e de código aberto, com um design moderno baseado no Material You. O ScreenFlow PRO oferece uma experiência de gravação de tela intuitiva e rica em recursos, ideal para criadores de conteúdo, desenvolvedores e qualquer pessoa que precise capturar sua tela com alta qualidade.
+---
 
-## Status do Projeto
+## Overview
 
-Atualmente, o ScreenFlow PRO está na versão **Beta 1.0**. Estamos trabalhando ativamente para aprimorar a estabilidade, adicionar novos recursos e refinar a experiência do usuário. Agradecemos seu feedback e contribuições para tornar este projeto ainda melhor.
+ScreenFlow PRO is an open-source Android screen recorder focused on a clean UI, high-quality capture, and a simple workflow. The project aims to provide creators, gamers, and developers with a powerful recording experience.
 
-## Recursos Principais
+## Features
 
-*   **Design Material You:** Interface de usuário moderna e adaptável, seguindo as diretrizes do Material You para uma experiência visual agradável.
-*   **Gravação de Alta Qualidade:** Capture sua tela com clareza e fluidez, ideal para tutoriais, demonstrações e gameplays.
-*   **Código Aberto:** Transparência e flexibilidade para a comunidade contribuir e personalizar o aplicativo.
-*   **Fácil de Usar:** Controles intuitivos para iniciar, pausar e parar gravações.
+- Material You interface
+- Multiple resolution presets
+- Adjustable FPS
+- Smart recording engine
+- Optimized performance
+- Simple and intuitive controls
+- Open-source and community-driven
 
 ## Screenshots
 
-Aqui estão algumas capturas de tela do ScreenFlow PRO em ação:
-
-### Tela Principal de Gravação
 <div align="center">
-  <img src="./assets/screenshot_1.jpg" alt="Tela Principal de Gravação" width="300"/>
+<img src="./assets/screenshot_1.jpg" width="250"/>
+<img src="./assets/screenshot_2.jpg" width="250"/>
 </div>
 
-### Tela de Gravações Concluídas
-<div align="center">
-  <img src="./assets/screenshot_2.jpg" alt="Tela de Gravações Concluídas" width="300"/>
-</div>
+## Roadmap
 
-## Instalação e Uso
+- [x] Initial recording engine
+- [x] Material You interface
+- [ ] Audio source selection
+- [ ] Video editor
+- [ ] Floating widgets
+- [ ] Cloud sync support
 
-Detalhes sobre como instalar e executar o ScreenFlow PRO serão adicionados em breve. Por favor, verifique as próximas atualizações.
+## Installation
 
-## Contribuição
+Instructions will be added in future releases.
 
-Se você deseja contribuir para o desenvolvimento do ScreenFlow PRO, por favor, leia nosso guia de contribuição (CONTRIBUTING.md) para mais informações.
+## Contributing
 
-## Licença
+Contributions are welcome. Check CONTRIBUTING.md.
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+## License
 
-## Atribuição
-
-Desenvolvido por MANOSHOX FF.
+Distributed under the MIT License.
