@@ -65,7 +65,7 @@ ScreenFlow PRO is an open-source Android screen recorder focused on a clean UI, 
 
 - [x] Initial recording engine
 - [x] Material You interface
-- [ ] Audio source selection
+- [x] Audio source selection
 - [ ] Video editor
 - [ ] Floating widgets
 - [ ] Cloud sync support
