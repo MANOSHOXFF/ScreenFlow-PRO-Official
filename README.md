@@ -1,5 +1,29 @@
 # ScreenFlow PRO
 
+<p align="center">
+  <h1 align="center">ScreenFlow PRO</h1>
+  <p align="center">
+    Enterprise-grade Android screen recording experience.
+  </p>
+</p>
+
+---
+
+## Why ScreenFlow PRO?
+
+Built around modern Android architecture, performance optimization, and scalable design principles.
+
+### Architecture
+- Clean Architecture
+- MVVM Pattern
+- Material You
+- Performance-focused rendering
+- Modular structure
+- Production-ready workflow
+
+
+# ScreenFlow PRO
+
 <div align="center">
   <img src="./assets/logo.png" width="180"/>
 
